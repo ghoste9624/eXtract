@@ -13,35 +13,35 @@ HTTP headers and cookies are both used in the HTTP protocol to exchange informat
 <br>
 
 ```bash
-git clone https://github.com/ghoste9624/extract
-cd extract
+git clone https://github.com/ghoste9624/eXtract
+cd eXtract
 python cookie.py -h
 ```
 
 <br>
 
-# example usage
+# Example Usage
 
 <br>
 
 * Display headers only from a target
 
 ```bash
-python cookie.py https://github.com/ghoste9624/extract
+python cookie.py https://github.com/ghoste9624/eXtract
 ```
 <br>
 
 * Display cookies only from a target
 
 ```bash
-python cookie.py https://github.com/ghoste9624/extract --cookies
+python cookie.py https://github.com/ghoste9624/eXtract --cookies
 ```
 <br>
 
 * Display both headers and cookies from a target
 
 ```bash
-python cookie.py https://github.com/ghoste9624/extract --headers --cookies
+python cookie.py https://github.com/ghoste9624/eXtract --headers --cookies
 ```
 
 <br>
