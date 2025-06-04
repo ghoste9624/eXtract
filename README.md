@@ -24,6 +24,14 @@ python cookie.py -h
 
 <br>
 
+* Display help message and exit
+
+```bash
+python cookie.py -h
+```
+
+<br>
+
 * Display headers only from a target
 
 ```bash
