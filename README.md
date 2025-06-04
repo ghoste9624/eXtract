@@ -8,6 +8,10 @@ HTTP headers and cookies are both used in the HTTP protocol to exchange informat
 
 <br>
 
+![alt text](https://github.com/ghoste9624/eXtract/blob/main/files%2FScreenshot_20250604-062320_Termux.jpg)
+
+<br>
+
 # Installation 
 
 <br>
