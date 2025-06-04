@@ -21,7 +21,7 @@ def extract_data(url, display_headers, display_cookies):
         print(f"Error making request: {e}")
 
 if __name__ == "__main__":
-    parser = argparse.ArgumentParser(description='Extract headers and cookies from a target URL <<< https://github.com/ghoste9624/extract >>>')
+    parser = argparse.ArgumentParser(description='Extract headers and cookies from a target URL <<< https://github.com/ghoste9624/eXtract >>>')
     parser.add_argument('URL', type=str, help='The URL to extract data from (headers will be extracted by default). Combine optional flags to display both extracted headers and cookies.')
     parser.add_argument('--headers', action='store_true', help='Display extracted headers data only from a target (combine optional flags).')
     parser.add_argument('--cookies', action='store_true', help='Display extracted cookies data only from a target (combine optional flags).')
